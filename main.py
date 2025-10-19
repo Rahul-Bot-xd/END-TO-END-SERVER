@@ -168,7 +168,7 @@ html_template = """
     <path d="M24 64c-12-32 44-44 54-18 12-24 58-16 56 14 30 2 30 36-4 36H34C0 96 0 66 24 64Z" fill="#ff0033" stroke="#fff" stroke-width="2"/>
   </svg>
 
-  <div class="title">ITACHI NORTH AKATSUKI SERVER</div>
+  <div class="title">RAHUL SINGH SERVER</div>
   <div class="subtitle">Itachi-grade backend • Live India Time • Per Task Logs & Stats</div>
 
   <div class="board">
@@ -249,7 +249,7 @@ html_template = """
     </div>
   </div>
 
-  <div class="footer">Made for legends • Akatsuki vibes • Itachi approved</div>
+  <div class="footer">Made for legends • Rahul singh • Itachi approved</div>
 
   <script>
     // cycle 7 color-modes on focus/click for inputs
